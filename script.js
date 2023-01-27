@@ -156,7 +156,7 @@ function timer(){
 
 function iniciarJogo(){
     
-    qtdeCartas = Number(prompt('Com quantas cartas você quer jogar?'));
+    qtdeCartas = Number(prompt('qtde de cartas?'));
 
     // verificar se qtdeCartas é par
     // qtdeCartas >= 4
